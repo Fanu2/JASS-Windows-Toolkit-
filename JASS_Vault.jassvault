@@ -1,0 +1,13 @@
+{
+  "format": "JASS-PGV1",
+  "kdf": "scrypt",
+  "scrypt": {
+    "n": 32768,
+    "r": 8,
+    "p": 1
+  },
+  "cipher": "AES-256-GCM",
+  "salt": "NNMdBmfD/zJWAISspqpCbA==",
+  "nonce": "T7k2Y7ekFmYhVwRB",
+  "ciphertext": "GS18boS0EQkFIIFAZ6MqFGWnUG4bVZkzwEUUBd/JY4zZgzCoK1bmWHEQKYuhEEyW93pTT+dcJcGA4ppd/IByDbxFLPfIVvlvtlhaE2MwsjoTEJHmLVA1XIAKWstOnwwemhVeIKwfPQ6mR9KzoKs5lM6WMOr7yLK80v0WgfXcyr7jCEHwP6eqTbZdNZg8vE9xZ2XxhKx0eTq+7q7HwvCwwlOfSRn6ZrRKLC16l7BYyss8BMAgH9JCyPDLq+3r+Ew/NEAbHByykNVsobSXszZPQQi1eL0c3/S9Zas0A4nOSnmBOQ/Gsx6riQBN+GgPET46nwrCIY4l0pjbawy6poqwW5SuUE7Lkd4ypkzTjSM/af83n18xN4GN+x3JlLxcayV9By01R2RTarMRkAApPGrQ77G09n7onmb9/nCWgl1ZxesoGQ=="
+}
